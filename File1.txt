@@ -1,2 +1,7 @@
 Hello world! + info ++ info +++info
+<<<<<<< HEAD
 New line
+=======
+New line
+Line from user1
+>>>>>>> af883318cb45b0a55d2352671632049fae7ede32
