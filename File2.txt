@@ -1,2 +1,3 @@
 More text and more info
-Line fro user2
+Line from user2
+anoter from user2
